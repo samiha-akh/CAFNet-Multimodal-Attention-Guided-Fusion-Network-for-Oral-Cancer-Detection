@@ -22,6 +22,16 @@ The model integrates **channel attention** and **adaptive fusion blocks** to com
 
 Expected input directory structure:
 
+/path/to/data/
+├── BF
+│ ├── train/
+│ └── test/
+├── FL
+│ ├── train/
+│ └── test/
+└── train.csv
+
+
 - **BF**: Brightfield images (RGB)  
 - **FL**: Fluorescence images (RGBA)  
 - **train.csv**: CSV file with columns:
