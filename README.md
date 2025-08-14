@@ -32,8 +32,8 @@ Expected input directory structure:
 
 ## Results
 
-Loss vs Accuracy Curve
+- Loss vs Accuracy Curve
 <img width="1189" height="490" alt="cafnet loss vs auc" src="https://github.com/user-attachments/assets/c8aa03c3-ea85-4de7-9ed3-619d24e43a6c" />
 
 
-# Score on Hidden Test Set: 0.7538
+- Score on Hidden Test Set: 0.7538
